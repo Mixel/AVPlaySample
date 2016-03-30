@@ -1,8 +1,14 @@
+/*! 
+* main.js v1.0.0 (https://github.com/SamsungDForum) 
+* Copyright 2016, Samsung Electronics Co., Ltd 
+* Licensed under the MIT license 
+*/ 
+
 /* 
  * Methods use shows below:
  * open : This method instantiates the player object and take input url as input paramter.
  * prepare: This method prepare the media player for playback. 
- * Player must have been created before this with a valid URI.
+ * Player must have been created beforet his with a valid URI.
  * setDisplayRect:This method sets the display area for playing video content on TV screen
  * play: This method starts the playback of the stream.
  * close:This method destroys the avplay object.
